@@ -4,7 +4,7 @@ const SatisfiedUsers = () => {
   return (    
     <div className='max-w-full h-[120px] bg-hover-text flex text-xs justify-between items-center  gap-[10px] lg:text-2xl md:px-[120px] md:h-[160px] md:mt-10 '>
         <div className=' w-[160px] h-[160px] flex flex-col items-center justify-center md:text-lg md:text-nowrap'>
-            <h2 className='font-semibold' >15k+</h2> <p className='text-xs text-center md:text-lg'>Customer Service Points</p>
+            <h2 className='font-semibold' >5k+</h2> <p className='text-xs text-center md:text-lg'>Customer Service Points</p>
         </div>
         <div className=' w-[160px] h-[160px] flex flex-col items-center justify-center md:text-lg'>
             <h2 className='font-semibold' >3</h2> <p className='text-xs text-center md:text-lg'>Countries Served</p>
@@ -14,7 +14,7 @@ const SatisfiedUsers = () => {
             <h2 className='font-semibold' >1m+</h2> <p className='text-xs text-center md:text-lg'>Satisfied Users</p>
         </div>
         <div className='w-[160px] h-[160px] flex flex-col items-center justify-center text-center md:text-lg'>
-            <h2 className='font-semibold' >50+</h2> <p className='text-xs md:text-lg'>Financial Advisors</p>
+            <h2 className='font-semibold' >20+</h2> <p className='text-xs md:text-lg'>Financial Advisors</p>
         </div>
         <div className='w-[160px] h-[160px] flex flex-col items-center justify-center text-center md:text-lg'>
             <h2 className='font-semibold' >10+</h2> <p className='text-xs md:text-lg '>Innovative Banking Solutions</p>
